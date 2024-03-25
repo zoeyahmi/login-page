@@ -11,7 +11,7 @@ body {
     height: 100vh;
     display: grid;
     place-items: center;
-    background: #009579;
+   /* background: #009579;*/
     padding: 15px 20px;
 }
 
